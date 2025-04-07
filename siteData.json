@@ -63,7 +63,12 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-effort": "Appendix: Effort",
+        "challenges": "Challenges:",
+        "reused-components": "Reused Components:",
+        "effort-highlights": "Effort Highlights:",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -119,6 +124,11 @@
         "adding-a-book-add-book": "Adding a book : add_book",
         "deleting-a-book-delete-book": "Deleting a book : delete_book",
         "listing-all-books-list-books": "Listing all books : list_books",
+        "issuing-a-book-issue": "Issuing a book : issue",
+        "returning-a-book-return": "Returning a book : return",
+        "listing-borrowed-books-list-borrowed-books": "Listing borrowed books : list_borrowed_books",
+        "displaying-overdue-books-display-overdue": "Displaying overdue books : display_overdue",
+        "extending-the-borrowing-duration-extend": "Extending the borrowing duration : extend",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
